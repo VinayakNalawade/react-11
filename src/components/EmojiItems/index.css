@@ -1,0 +1,17 @@
+.li {
+  width: 30%;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.emojis {
+  width: 60%;
+}
+
+.emojiName {
+  font-size: 23px;
+  font-weight: 700;
+}
